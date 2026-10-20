@@ -1,0 +1,6 @@
+{
+  "name": "SAVOR · Artisanal Food & Delivery",
+  "description": "Order chef-crafted artisanal meals, customize toppings, track live courier delivery on the map, and manage store operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

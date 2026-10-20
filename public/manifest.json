@@ -1,0 +1,17 @@
+{
+  "name": "SAVOR · Artisanal Food & Delivery",
+  "short_name": "SAVOR",
+  "description": "Order chef-crafted meals, track live courier delivery on the map, and manage store operations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1c1917",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/src/assets/images/hero_food_platter_1792442076978.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
